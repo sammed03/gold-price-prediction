@@ -4,62 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gold Price Prediction App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f5;
-            color: #333;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        }
-
-        header {
-            text-align: center;
-        }
-
-        .header-image {
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
-        }
-
-        h1 {
-            color: #4CAF50;
-        }
-
-        h2 {
-            color: #4CAF50;
-            margin-top: 20px;
-        }
-
-        ul, ol {
-            padding-left: 20px;
-        }
-
-        pre {
-            background-color: #f9f9f9;
-            border: 1px solid #ddd;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 0.9em;
-            color: #777;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
