@@ -8,7 +8,6 @@
     <div class="container">
         <header>
             <h1>Gold Price Prediction App</h1>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Gold_bars.jpg" alt="Gold Bars" class="header-image">
         </header>
         <section>
             <h2>Why Gold as a Hedging Instrument?</h2>
@@ -61,7 +60,7 @@
         </section>
         <section>
             <h2>Getting Started</h2>
-            <pre><code>git clone https://github.com/yourusername/gold-price-prediction.git
+            <pre><code>git clone https://github.com/sammed03/gold-price-prediction.git
 cd gold-price-prediction
 pip install -r requirements.txt
 streamlit run app.py</code></pre>
